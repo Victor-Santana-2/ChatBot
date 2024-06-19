@@ -1,0 +1,14 @@
+C:\Users\victor.santana\Downloads\ChatGPT-inicial\ChatGPT\bin\Debug\net7.0\ChatGPT.exe
+C:\Users\victor.santana\Downloads\ChatGPT-inicial\ChatGPT\bin\Debug\net7.0\ChatGPT.deps.json
+C:\Users\victor.santana\Downloads\ChatGPT-inicial\ChatGPT\bin\Debug\net7.0\ChatGPT.runtimeconfig.json
+C:\Users\victor.santana\Downloads\ChatGPT-inicial\ChatGPT\bin\Debug\net7.0\ChatGPT.dll
+C:\Users\victor.santana\Downloads\ChatGPT-inicial\ChatGPT\bin\Debug\net7.0\ChatGPT.pdb
+C:\Users\victor.santana\Downloads\ChatGPT-inicial\ChatGPT\obj\Debug\net7.0\ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.santana\Downloads\ChatGPT-inicial\ChatGPT\obj\Debug\net7.0\ChatGPT.AssemblyInfoInputs.cache
+C:\Users\victor.santana\Downloads\ChatGPT-inicial\ChatGPT\obj\Debug\net7.0\ChatGPT.AssemblyInfo.cs
+C:\Users\victor.santana\Downloads\ChatGPT-inicial\ChatGPT\obj\Debug\net7.0\ChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\victor.santana\Downloads\ChatGPT-inicial\ChatGPT\obj\Debug\net7.0\ChatGPT.dll
+C:\Users\victor.santana\Downloads\ChatGPT-inicial\ChatGPT\obj\Debug\net7.0\refint\ChatGPT.dll
+C:\Users\victor.santana\Downloads\ChatGPT-inicial\ChatGPT\obj\Debug\net7.0\ChatGPT.pdb
+C:\Users\victor.santana\Downloads\ChatGPT-inicial\ChatGPT\obj\Debug\net7.0\ChatGPT.genruntimeconfig.cache
+C:\Users\victor.santana\Downloads\ChatGPT-inicial\ChatGPT\obj\Debug\net7.0\ref\ChatGPT.dll
